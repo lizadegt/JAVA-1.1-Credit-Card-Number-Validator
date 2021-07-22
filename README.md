@@ -18,51 +18,84 @@
 
 ### В качестве тестовых данных использовались данные с сервиса по генерированию валидных номеров карт - [freeformatter.com](https://www.freeformatter.com/):
 
-VISA:
+* VISA:
+
 4929078242640775
+
+4024007175007516
 
 4485050621938460038 
 
+4539386596813627761
 
-Discover:
+* Discover:
+
 6011534170157830
+
+6011098804706370
 
 6011664406513309390 
 
+6011021506008970149
 
-Diners Club - Carte Blanche:
+* Diners Club - Carte Blanche:
+
 30570244622904 
 
+30287956715582
 
-Visa Electron:
+* Visa Electron:
+
+4508458202631957
+
 4844204408105351
 
-
-MasterCard:
+* MasterCard:
+ 
 5370019311790365
 
+5303208612624363
 
-JCB:
+* JCB:
+
 3536012058712045
+
+3534085176865871
 
 3536841152031642269 
 
+3536769734789531063
 
-Diners Club - International:
+* Diners Club - International:
+
 36200355660840 
 
+36561583942221
 
-InstaPayment:
+
+* InstaPayment:
+
+6377108627622155
+
 6373997381750366
 
-American Express (AMEX):
-371181748031084 
+* American Express (AMEX):
 
-Diners Club - North America:
+371181748031084
+
+345154858409997
+
+* Diners Club - North America:
+
 5570555524773704
 
-Maestro:
+5584538209982182
+
+* Maestro:
+
 5020711913862527
+
+5020704231188790
 
 ### Тестирование производилось в следующем окружении:
 * Windows 10 x64
